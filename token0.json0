@@ -1,23 +1,7 @@
-[
-  {
-    "id": 0,
-    "description": "My ommuse NFT",
-    "external_url": "https://ommuse.com/nft1/0",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "My NFT 0"
-  },
-  {
-    "id": 1,
-    "description": "My ommuse NFT",
-    "external_url": "https://ommuse.com/nft1/1",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "My NFT 1"
-  },
-  {
-    "id": 2,
-    "description": "My ommuse NFT",
-    "external_url": "https://ommuse.com/nft1/2",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "My NFT 2"
-  }
-]
+{
+  "id": 0,
+  "description": "My Ommuse NFT",
+  "external_url": "https://ommuse.com/NFTs/0",
+  "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+  "name": "My Ommuse NFT 0"
+}
